@@ -1,0 +1,15 @@
+body{
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+    background-color: brown;
+}
+.employee-list{
+    color: rgb(45, 22, 54);
+    background-color: #faebd7;
+  
+    background-color: rgb(179, 146, 146);
+    
+}
